@@ -1,0 +1,83 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Montserrat',sans-serif;
+}
+
+h1{
+    margin-left: 35%;
+    font-family: 'Sacramento',sans-serif;
+    font-size: 500%;
+    width:10%;
+}
+h2{
+    font-family: 'Alata',sans-serif;
+    font-size: 250%;
+    color: #4E31AA;
+}
+h3{
+    font-family: 'Alata',sans-serif;
+    font-size: 150%;
+    color: #4E31AA;
+}
+.top-cloud{
+    margin-top:4%;
+    position: relative;
+    left: 20%;
+}
+.bottom-cloud{
+    position: absolute;
+}
+.top{
+    background-color:#F7C8E0;
+    color: #3A1078;
+}
+p{
+    color: #2F58CD;
+}
+.my-pic{
+    border-radius: 50%;
+}
+.profile{
+    padding-top: 2%;
+}
+.dsa{
+    width: 20%;
+    height: 20%;
+    float:left;
+    margin-right: 10%;
+}
+.dsa h2{
+    text-align: right;
+}
+.web{
+    width: 20%;
+    height: 20%;
+    float:right;
+}
+a{
+    text-decoration: none;
+    color: #3795BD;
+}
+.skill-row{
+    width: 50%;
+    height: 50%;
+    margin: auto;
+    margin-bottom: 10%;
+    text-align: left;
+    
+}
+.bottom-container p{
+    margin-bottom: 0;
+}
+.bottom-container {
+    margin-top: 5%;
+    padding: 5%;
+    background-color:#F7C8E0;
+}
+.bottom-container a{
+    margin: 2%;
+    color: #2F58CD;
+    font-size: 150%;
+    font-family: "Alata";
+}
